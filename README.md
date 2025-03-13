@@ -46,4 +46,8 @@ File -> Import -> Maven -> Exitsting Maven Projects -> Browse... (Chọn example
 #### Console Eclipse:
 ![image](https://github.com/user-attachments/assets/0eb5e4d1-1adc-4839-9667-0494fae5c7ba)
 
+#### Màn hình email:
+![image](https://github.com/user-attachments/assets/9bd06acb-a0ed-4000-9b80-11d01bae09cc)
+
+
 
